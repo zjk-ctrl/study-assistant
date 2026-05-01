@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import { Inspector } from 'react-dev-inspector';
 import { AuthProvider } from '@/components/auth-provider';
 import { Toaster } from '@/components/ui/sonner';
-import './globals.css';
+//import './globals.css';
 
 export const metadata: Metadata = {
   title: {
